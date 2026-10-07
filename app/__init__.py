@@ -1,0 +1,1 @@
+"""FastAPI observability demo service."""
